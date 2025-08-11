@@ -51,7 +51,7 @@ export default function App() {
 
   return (
     <div style={{ textAlign: "center", marginTop: "50px" }}>
-      <h1>Guess the Number</h1>
+      <h1>Guess the Number in between 1 to 100</h1>
       <p>Chances Left: {chances}</p>
       <input
         style={{margin:21,padding:10, border: "2px solid black", borderRadius:10 }}
